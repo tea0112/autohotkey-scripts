@@ -1,0 +1,1 @@
+﻿Capslock::^+c ; Remap Capslock to Ctrl Shift C

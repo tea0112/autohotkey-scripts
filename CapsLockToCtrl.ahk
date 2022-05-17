@@ -1,0 +1,1 @@
+﻿Capslock::Ctrl ; Remap Capslock to Ctrl
