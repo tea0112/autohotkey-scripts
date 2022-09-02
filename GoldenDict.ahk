@@ -155,5 +155,5 @@ TranslateRoutine:
 }
 return
 
-CapsLock::suspend Toggle
+; CapsLock::suspend Toggle
 MButton::suspend Toggle
