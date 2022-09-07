@@ -32,7 +32,7 @@ GetArrowState() {
 }
 
 #IfWinNotActive ahk_group DontActiveGroup
-~Lshift::
+~Rshift::
 TimeButtonDown = %A_TickCount%
 arrow_state = 0
 ; Wait for it to be released
