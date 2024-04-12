@@ -1,0 +1,1 @@
+﻿CapsLock::Backspace
